@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gloves
+  - Enemy
+  - Door
+  - EnemyHint
+  - BridgeArea
+  - TriggerGloves
+  - BridgePos1
+  - BridgePos2
+  - BridgePos3
+  - Bridges
+  - PlayerDetect
+  - TriggerBridge
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Border
+  - Water
+  - UI
+  - Player
+  - AllButPlayer
+  - Player1
+  - Player2
+  - Player3
+  - OnlyPlayer1
+  - OnlyPlayer2
+  - OnlyPlayer3
+  - AllButPlayer1
+  - AllButPlayer2
+  - AllButPlayer3
+  - BetweenMines
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
