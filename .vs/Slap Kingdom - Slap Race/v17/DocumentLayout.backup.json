@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|e:\\freelancing_updated\\new\\slap kingdom - slap race\\assets\\blockchain\\scripts\\blockchainconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|solutionrelative:assets\\blockchain\\scripts\\blockchainconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\assets\\blockchain\\scripts\\claim\\claimbuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|solutionrelative:assets\\blockchain\\scripts\\claim\\claimbuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\assets\\blockchain\\scripts\\blockchainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|solutionrelative:assets\\blockchain\\scripts\\blockchainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\assets\\blockchain\\scripts\\buildnetworkso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|solutionrelative:assets\\blockchain\\scripts\\buildnetworkso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\assets\\scripts x\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts x\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\assets\\scripts x\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts x\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\assets\\scripts x\\levelmanager_forui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts x\\levelmanager_forui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A58A26-F159-F5C0-7484-1513DFA7EA09}|Assembly-CSharp-Editor.csproj|E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\assets\\editor\\selectspecificchildren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A58A26-F159-F5C0-7484-1513DFA7EA09}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\selectspecificchildren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\assets\\scripts x\\triggerbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts x\\triggerbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A58A26-F159-F5C0-7484-1513DFA7EA09}|Assembly-CSharp-Editor.csproj|E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\assets\\editor\\navmeshcleartool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A58A26-F159-F5C0-7484-1513DFA7EA09}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\navmeshcleartool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\assets\\scripts x\\playersc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts x\\playersc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Blockchain\\Scripts\\LocalStorageManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Blockchain\\Scripts\\LocalStorageManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaimButtonHandler.cs",
+              "DocumentMoniker": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Blockchain\\Scripts\\Claim\\ClaimButtonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Blockchain\\Scripts\\Claim\\ClaimButtonHandler.cs",
+              "ToolTip": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Blockchain\\Scripts\\Claim\\ClaimButtonHandler.cs",
+              "RelativeToolTip": "Assets\\Blockchain\\Scripts\\Claim\\ClaimButtonHandler.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:11:25.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LocalStorageManager.cs",
+              "DocumentMoniker": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Blockchain\\Scripts\\LocalStorageManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Blockchain\\Scripts\\LocalStorageManager.cs",
+              "ToolTip": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Blockchain\\Scripts\\LocalStorageManager.cs",
+              "RelativeToolTip": "Assets\\Blockchain\\Scripts\\LocalStorageManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:34:59.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlockchainManager.cs",
+              "DocumentMoniker": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Blockchain\\Scripts\\BlockchainManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Blockchain\\Scripts\\BlockchainManager.cs",
+              "ToolTip": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Blockchain\\Scripts\\BlockchainManager.cs*",
+              "RelativeToolTip": "Assets\\Blockchain\\Scripts\\BlockchainManager.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAIA2wCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:27:24.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuildNetworkSO.cs",
+              "DocumentMoniker": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Blockchain\\Scripts\\BuildNetworkSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Blockchain\\Scripts\\BuildNetworkSO.cs",
+              "ToolTip": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Blockchain\\Scripts\\BuildNetworkSO.cs",
+              "RelativeToolTip": "Assets\\Blockchain\\Scripts\\BuildNetworkSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:21:53.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlockchainConnectionManager.cs",
+              "DocumentMoniker": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Blockchain\\Scripts\\BlockchainConnectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Blockchain\\Scripts\\BlockchainConnectionManager.cs",
+              "ToolTip": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Blockchain\\Scripts\\BlockchainConnectionManager.cs",
+              "RelativeToolTip": "Assets\\Blockchain\\Scripts\\BlockchainConnectionManager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAASwDcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:54:51.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Scripts x\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts x\\ScoreManager.cs",
+              "ToolTip": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Scripts x\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts x\\ScoreManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAnAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-01T04:54:45.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerSc.cs",
+              "DocumentMoniker": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Scripts x\\PlayerSc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts x\\PlayerSc.cs",
+              "ToolTip": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Scripts x\\PlayerSc.cs",
+              "RelativeToolTip": "Assets\\Scripts x\\PlayerSc.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAADgv04AAAA0AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-01T04:54:45.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Scripts x\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts x\\GameManager.cs",
+              "ToolTip": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Scripts x\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts x\\GameManager.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwEkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:54:46.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMeshClearTool.cs",
+              "DocumentMoniker": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Editor\\NavMeshClearTool.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\NavMeshClearTool.cs",
+              "ToolTip": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Editor\\NavMeshClearTool.cs",
+              "RelativeToolTip": "Assets\\Editor\\NavMeshClearTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-01T04:54:46.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TriggerBridge.cs",
+              "DocumentMoniker": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Scripts x\\TriggerBridge.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts x\\TriggerBridge.cs",
+              "ToolTip": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Scripts x\\TriggerBridge.cs",
+              "RelativeToolTip": "Assets\\Scripts x\\TriggerBridge.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBsAAAAtAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-01T04:54:46.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelectSpecificChildren.cs",
+              "DocumentMoniker": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Editor\\SelectSpecificChildren.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\SelectSpecificChildren.cs",
+              "ToolTip": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Editor\\SelectSpecificChildren.cs",
+              "RelativeToolTip": "Assets\\Editor\\SelectSpecificChildren.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBQAAAARAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-01T04:54:46.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LevelManager_ForUi.cs",
+              "DocumentMoniker": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Scripts x\\LevelManager_ForUi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts x\\LevelManager_ForUi.cs",
+              "ToolTip": "E:\\Freelancing_Updated\\new\\Slap Kingdom - Slap Race\\Assets\\Scripts x\\LevelManager_ForUi.cs",
+              "RelativeToolTip": "Assets\\Scripts x\\LevelManager_ForUi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-01T04:54:46.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

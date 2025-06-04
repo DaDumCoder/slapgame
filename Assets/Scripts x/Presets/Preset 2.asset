@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8ff676884dd8014392e0e2264e9c24f, type: 3}
+  m_Name: Preset 2
+  m_EditorClassIdentifier: 
+  playerMat: {fileID: 2100000, guid: 02ececde77f04f841a91b880050fdd40, type: 2}
+  gloveMat: {fileID: 2100000, guid: bf52b5c731757f14d878042859db14c2, type: 2}
+  gradiantMat: {fileID: 2100000, guid: e738cd7d578bb504c8fb278ebb18f47b, type: 2}
+  doorMat: {fileID: 2100000, guid: 0a53662bfcda6c84287a653e36ab03cf, type: 2}

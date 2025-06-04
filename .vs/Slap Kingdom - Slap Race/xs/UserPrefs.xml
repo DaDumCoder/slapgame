@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{453BCED9-62CC-0AA1-06C0-030DF77A0E67}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts x/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts x/GameManager.cs" Line="32" Column="1" />
+      <File FileName="Assets/GleyPlugins/Ads/Example/Implementation.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="78df98a9-6bd9-40ff-bc17-08a80366a0d8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
